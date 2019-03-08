@@ -13,7 +13,7 @@ void test901()
     p.showPerson();
 }
 
-int main()
+int main9()
 {
     test901();
     return 0;
