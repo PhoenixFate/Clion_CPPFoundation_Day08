@@ -61,7 +61,7 @@ void test603()
     doWork3(p);
 }
 
-int main()
+int main6()
 {
     test601();
     test602();

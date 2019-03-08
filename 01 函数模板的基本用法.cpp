@@ -16,10 +16,6 @@ void mySwap(T &a,T &b)
     b=temp;
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/master
 void test101()
 {
     int a=10;
@@ -36,11 +32,6 @@ void test101()
     double d= static_cast<double>(a);
 }
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> origin/master
 int main1() {
     test101();
     std::cout << "Hello, World!" << std::endl;
