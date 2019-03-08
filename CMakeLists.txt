@@ -3,4 +3,4 @@ project(Clion_CPPFoundation_Day08)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Clion_CPPFoundation_Day08 main.cpp)
+add_executable(Clion_CPPFoundation_Day08 "01 模板函数的基本用法.cpp")
