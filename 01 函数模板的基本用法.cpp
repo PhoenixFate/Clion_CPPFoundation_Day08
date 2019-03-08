@@ -32,7 +32,7 @@ void test101()
     double d= static_cast<double>(a);
 }
 
-int main() {
+int main1() {
     test101();
     std::cout << "Hello, World!" << std::endl;
     return 0;
