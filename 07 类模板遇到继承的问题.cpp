@@ -39,7 +39,7 @@ void test701()
     cout<<c.b<<endl;
 }
 
-int main()
+int main7()
 {
     test701();
     return 0;
